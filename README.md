@@ -55,4 +55,4 @@ After running above commands you can generate the coverage report of the backend
 
 ### Coverage report sample ([http://localhost:30002/coverage](http://localhost:3002/coverage))
 
-![Problem](assets/coverage-report.PNG)
+![Problem](assets/coverage-report.png)
